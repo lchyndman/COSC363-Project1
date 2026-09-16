@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Factory.out.dir/Factory.cpp.o CMakeFiles/Factory.out.dir/legoman.cpp.o CMakeFiles/Factory.out.dir/skybox.cpp.o CMakeFiles/Factory.out.dir/conveyor.cpp.o CMakeFiles/Factory.out.dir/particles.cpp.o CMakeFiles/Factory.out.dir/gear.cpp.o -o Factory.out  -lGL -lGLU -lglut -lXi 

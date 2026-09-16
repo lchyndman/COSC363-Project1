@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Factory.out.dir/Factory.cpp.o -c /csse/users/lhy19/Desktop/COSC363/363Assignment1/Factory.cpp",
+  "file": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/Factory.cpp",
+  "output": "CMakeFiles/Factory.out.dir/Factory.cpp.o"
+},
+{
+  "directory": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Factory.out.dir/legoman.cpp.o -c /csse/users/lhy19/Desktop/COSC363/363Assignment1/legoman.cpp",
+  "file": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/legoman.cpp",
+  "output": "CMakeFiles/Factory.out.dir/legoman.cpp.o"
+},
+{
+  "directory": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Factory.out.dir/skybox.cpp.o -c /csse/users/lhy19/Desktop/COSC363/363Assignment1/skybox.cpp",
+  "file": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/skybox.cpp",
+  "output": "CMakeFiles/Factory.out.dir/skybox.cpp.o"
+},
+{
+  "directory": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Factory.out.dir/conveyor.cpp.o -c /csse/users/lhy19/Desktop/COSC363/363Assignment1/conveyor.cpp",
+  "file": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/conveyor.cpp",
+  "output": "CMakeFiles/Factory.out.dir/conveyor.cpp.o"
+},
+{
+  "directory": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Factory.out.dir/particles.cpp.o -c /csse/users/lhy19/Desktop/COSC363/363Assignment1/particles.cpp",
+  "file": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/particles.cpp",
+  "output": "CMakeFiles/Factory.out.dir/particles.cpp.o"
+},
+{
+  "directory": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Factory.out.dir/gear.cpp.o -c /csse/users/lhy19/Desktop/COSC363/363Assignment1/gear.cpp",
+  "file": "/csse/users/lhy19/Desktop/COSC363/363Assignment1/gear.cpp",
+  "output": "CMakeFiles/Factory.out.dir/gear.cpp.o"
+}
+]

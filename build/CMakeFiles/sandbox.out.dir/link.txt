@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/sandbox.out.dir/sandbox.cpp.o CMakeFiles/sandbox.out.dir/legoman.cpp.o -o sandbox.out  -lGL -lGLU -lglut -lXi 

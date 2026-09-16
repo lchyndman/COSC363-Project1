@@ -1,0 +1,3 @@
+/csse/users/lhy19/Desktop/COSC363/363Assignment1/build/CMakeFiles/Factory.out.dir
+/csse/users/lhy19/Desktop/COSC363/363Assignment1/build/CMakeFiles/edit_cache.dir
+/csse/users/lhy19/Desktop/COSC363/363Assignment1/build/CMakeFiles/rebuild_cache.dir
